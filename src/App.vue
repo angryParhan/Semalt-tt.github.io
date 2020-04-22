@@ -131,21 +131,12 @@
             </div>
           </div>
         </div>
-
-
       </div>
-
-
-
     </div>
-
-
   </section>
 </template>
 
 <script>
-
-
 export default {
   name: 'App',
   data () {
@@ -675,7 +666,5 @@ export default {
     background: #E7F6FF;
   }
   /*Table Body end*/
-
-
 
 </style>
